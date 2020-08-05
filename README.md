@@ -1,5 +1,5 @@
 # forkify
-## !!!You need to have node and npm installed in your computer
+## !!! To run the app you need to have node and npm installed in your computer
 You can install it here https://nodejs.org/en/
 ### How to run :
 - First download the file as zip.
