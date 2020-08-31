@@ -10,4 +10,6 @@ You can install it here https://nodejs.org/en/
 3. npm install
 4. npm start
 
+###You can see how the project looks by clicking the link below
+https://forkify-86d96.web.app/
 
